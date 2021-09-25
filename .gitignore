@@ -12,3 +12,6 @@
 /captures
 .externalNativeBuild
 .cxx
+*.iws
+.idea/tasks.xml
+.idea/vcs.xml
